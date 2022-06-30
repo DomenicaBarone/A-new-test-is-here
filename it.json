@@ -2,9 +2,6 @@
   "courses.show.please_complete_one_of_the_lessons": null,
   "js.dashboard.content_insights.course_considered_complete": null,
   "js.dashboard.learnings.assessments.course_considered_complete": null,
-  "key.test.for.mt": "Si tratta di una chiave per verificare se la traduzione automatica funziona per la combinazione linguistica EN > EN-GB",
-  "legacyKey.plans.payment.info.city|de|Ort": "Ort",
-  "legacyKey.plans.payment.info.zone|de|Region": "Test",
   "studio.scorm_courses.scorm_settings.course_deadline": null,
   "studio.scorm_courses.scorm_settings.do_learners_have_to_renew": null,
   "studio.scorm_courses.scorm_settings.how_do_you_want_to_track": null,
@@ -18,10 +15,8 @@
     "other": null,
     "zero": null
   },
-  "test.icu.mt": "{weeks, plural\n=0 {Diese Woche}\n=1 {Letzte Woche}\nother {Vor<notranslate> {weeks} Wochen}\n} </notranslate>",
   "test.malformed.tag": null,
-  "test.no.translate": "Vediamo se la parola  dog  è tradotta o meno",
-  "test.plural.form.icu": "Ho comprato {count, plural, one {un libro} other {# libri}}",
+  "test.plural.form.icu": "Ho comprato {count, plural, one {un libro} other {# libri}} - MODIFICA",
   "testtesttes": null,
   "Today.weather": null
 }
